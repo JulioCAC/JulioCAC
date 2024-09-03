@@ -1,7 +1,7 @@
 ### Eu sou Júlio César !!!
 
 - Estudante de Sistemas de Informação!
-- Atualmente no 3º período!
+- Atualmente no 4º período!
 
 <!-- Head -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá! Eu sou Júlio César !!!</h2>
